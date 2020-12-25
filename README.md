@@ -1,6 +1,6 @@
-## Lab 4.1 Image processing acceleration based on SIMD instruction set extensions
+## YUVAccelerator
 
-This is Lab 4.1 of PKU Computer Organization and Architecture.
+This is Lab 4.1 of PKU Computer Organization and Architecture. Do image processing acceleration based on SIMD instruction set extensions.
 
 ### Part 1
 
